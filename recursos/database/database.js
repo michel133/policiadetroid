@@ -11,7 +11,7 @@ var array_codigo_penal = [{
     "id_tabela_pm": "2",
     "descricao": "Estacionar em local proibido",
     "observacao": "Estacionar em local proibido",
-    "multa": "5000000",
+    "multa": "20000000",
     "pena": "0",
     "fianca": null
 }, {
